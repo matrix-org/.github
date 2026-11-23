@@ -55,3 +55,7 @@ Signed-off-by: Your Name <your@email.example.org>
 ```
 
 Git allows you to add this signoff automatically when using the `-s` flag to `git commit`, which uses the name and email set in your `user.name` and `user.email` git configs.
+
+## Code of Conduct
+
+All participants of the Matrix community, including contributors, are expected to adhere to the Matrix Code of Conduct. For more information, please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
